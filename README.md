@@ -40,10 +40,9 @@ Looking for real-world projects, strong teams, and chances to grow with every pu
   </tr>
 </table>
 
-<div style="width:100%">
-    <div style="display:flex; justify-content: space-between; width:80%; margin:auto">
-        <img src="https://github-readme-stats.vercel.app/api?username=barletjb&show_icons=true&theme=dracula" alt="GitHub stats" height="150" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barletjb&layout=compact&theme=dracula" alt="Top Languages" height="150" />
-    </div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=barletjb&show_icons=true&theme=dracula" alt="GitHub stats" height="150" style="margin:10px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barletjb&layout=compact&theme=dracula" alt="Top Languages" height="150" style="margin:10px"/>
 </div>
+
 
