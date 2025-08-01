@@ -24,5 +24,8 @@ Looking for real-world projects, strong teams, and chances to grow with every pu
 <br />
 
 #
+
+### 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=barletjb&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barletjb&layout=compact&theme=dracula)
