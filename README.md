@@ -26,14 +26,14 @@ Looking for real-world projects, strong teams, and chances to grow with every pu
 #
 
 ### 📊 Stats
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
-    <td>
+    <td style="border: none; padding-right: 40px;">
       <img src="https://github-readme-stats.vercel.app/api?username=barletjb&show_icons=true&theme=dracula" alt="GitHub stats" height="150" />
     </td>
-    <td style="width: 40px;"></td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barletjb&layout=compact&theme=dracula" alt="Top Languages" height="150" />
     </td>
   </tr>
 </table>
+
