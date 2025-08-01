@@ -10,7 +10,7 @@ Not the fastest yet, but always pushing forward.
 Looking for real-world projects, strong teams, and chances to grow with every pull request.
 
 
-### 🧰 Languages and Tools
+### 🧰 **`Languages and Tools`**
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -28,7 +28,7 @@ Looking for real-world projects, strong teams, and chances to grow with every pu
 
 #
 
-### 📊 Stats
+### 📊 **`Stats`**
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=barletjb&show_icons=true&theme=dracula" alt="GitHub stats" height="150" style="margin:10px"/>
